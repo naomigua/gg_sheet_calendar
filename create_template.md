@@ -4,7 +4,7 @@
 
 ### Option 1 : Lien direct (recommandé)
 Cliquez sur ce lien pour créer votre copie :
-👉 [Créer une copie du template](https://docs.google.com/spreadsheets/d/VOTRE_ID/copy)
+👉 **[Cliquez ici pour copier le template Google Sheets](https://docs.google.com/spreadsheets/d/1dK_MdRAN0NXJ0je8OXFyUReraSN4Fst0ogPEkDMGVHk/copy)**
 
 ### Option 2 : Création manuelle
 
